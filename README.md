@@ -40,10 +40,10 @@
 
   ## 📷 미리보기
   <a href="https://apps.apple.com/vn/app/%EC%A7%80%EB%A6%84%EC%95%8C%EB%A6%BC/id6474611420" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8905109e-e440-4b11-bfaa-339c0a0a6553" height="280" alt="앱 스크린샷 1" style="margin: 20px;">
+    <img src="https://github.com/user-attachments/assets/e35cfb40-d5e0-4b5f-a66b-99f5657b5613" height="280" alt="앱 스크린샷 1" style="margin: 20px;">
     <img src="https://github.com/user-attachments/assets/776e26fa-8801-43c7-b5e4-734b0ed93117" height="280" alt="앱 스크린샷 2" style="margin: 20px;">
-    <img src="https://github.com/user-attachments/assets/a3d78b19-abf5-4d8b-a4a3-0275b8b9ee3d" height="280" alt="앱 스크린샷 3" style="margin: 20px;">
-    <img src="https://github.com/user-attachments/assets/a2170e9b-b4ad-41f2-860f-cc61f23b250e" height="280" alt="앱 스크린샷 4" style="margin: 20px;">
+    <img src="https://github.com/user-attachments/assets/e1456b17-28f2-46ec-8d9b-799a782b6779" height="280" alt="앱 스크린샷 3" style="margin: 20px;">
+    <img src="https://github.com/user-attachments/assets/aaf9d038-1fdb-4436-908f-38ae93e75d09" height="280" alt="앱 스크린샷 4" style="margin: 20px;">
   </a>
   
 ---
@@ -75,10 +75,10 @@
 
 ## 📷 미리보기
 
-<img src="https://github.com/user-attachments/assets/22d6835b-8906-48c2-aca2-49afe904d430" height="280" alt="앱 스크린샷 1" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/73ae0200-0525-4fb1-b633-351df6a6cf0c" height="280" alt="앱 스크린샷 2" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/6b7f680d-6a50-4c70-a4e3-c8301beb5bd5" height="280" alt="앱 스크린샷 3" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/aab9d8ae-58fe-4f46-8106-0d3ffd9c3eb8" height="280" alt="앱 스크린샷 4" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/67bdd2a5-8b0f-4460-87e5-e92c902850f8" height="280" alt="앱 스크린샷 1" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/3eefddc8-3c27-4c5d-8cc1-cd82bbb8d209" height="280" alt="앱 스크린샷 2" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/5fc8e710-a0e6-44fb-816f-914b473c9a1e" height="280" alt="앱 스크린샷 3" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/9b20086a-1fc9-404c-a8d1-0f301c2c8f9b" height="280" alt="앱 스크린샷 4" style="margin: 20px;">
   
 ---
 ## 🛠 Korean Ping Pong
