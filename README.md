@@ -119,12 +119,12 @@ Korean Ping Pong은 외국인을 대상으로 한글 공부를 지원하는 앱�
 
 ## 📷 미리보기
 
-<img src="https://github.com/user-attachments/assets/2d7aa6e6-2e4c-4509-84d1-590da1f6f5c2" height="280" alt="앱 스크린샷 6" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/a2741d5c-8f40-4026-ba11-6dcd8cd985fa" height="280" alt="앱 스크린샷 1" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/e14c2e42-99db-438b-a348-005c0f0314be" height="280" alt="앱 스크린샷 2" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/d8bf6e80-5136-4097-ad20-7e0b22161c18" height="280" alt="앱 스크린샷 3" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/04a1de11-abec-4d7f-9356-017c64833ecb" height="280" alt="앱 스크린샷 4" style="margin: 20px;">
-<img src="https://github.com/user-attachments/assets/fd07edf4-e7e4-4366-9a11-6e22d11052bd" height="280" alt="앱 스크린샷 5" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/2bb1b2de-cab0-4f0a-9c46-ffa192be2105" height="280" alt="앱 스크린샷 1" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/c8035857-0c5b-41ea-9ec6-a9969299011d" height="280" alt="앱 스크린샷 2" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/8d3c24bf-2da1-4289-8510-6f213cf101fd" height="280" alt="앱 스크린샷 3" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/09c1d5d4-fabd-4de7-baf0-acc3982cf258" height="280" alt="앱 스크린샷 4" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/1b055f04-f788-40d7-8e22-a5da8ae6fd8d" height="280" alt="앱 스크린샷 5" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/87a6698b-de46-4246-a993-15bb18985393" height="280" alt="앱 스크린샷 6" style="margin: 20px;">
 
 ---
 
