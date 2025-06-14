@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&random=false&width=435&lines=Hello%2C+I'm+developer+Mr.Joo)](https://git.io/typing-svg)
 
 </div>
-  
+  <!-- 
   ## 🛠 지름알림
   지름알림은 사용자가 원하는 상품을 빠르고 쉽게 찾고 알림을 통해 구매 시점을 놓치지 않게 도와주는 앱입니다. 
   이 프로젝트는 Flutter와 Dart를 기반으로 제작되었습니다.
@@ -127,6 +127,8 @@ Korean Ping Pong은 외국인을 대상으로 한글 공부를 지원하는 앱�
 <img src="https://github.com/user-attachments/assets/87a6698b-de46-4246-a993-15bb18985393" height="280" alt="앱 스크린샷 6" style="margin: 20px;">
 
 ---
+
+-->
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
